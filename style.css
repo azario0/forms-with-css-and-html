@@ -1,0 +1,17 @@
+body {
+    font-family: 'Varela Round', sans-serif;
+    color: white;
+    background: linear-gradient(50deg, rgb(92, 92, 151), rgb(143, 74, 74));
+}
+h1{
+    text-align: center;
+    margin: 1.5rem;
+}
+form {
+    width: 40rem;
+    margin: auto;
+    background-color: rgb(71, 36, 94);
+    padding: 1rem;
+    box-shadow: 0 2px 8px black;
+    border-radius: 7px;
+}
